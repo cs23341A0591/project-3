@@ -1,4 +1,0 @@
-streamlit==1.54.0
-tensorflow==2.20.0
-numpy==2.2.6
-pillow==11.3.0
