@@ -1,0 +1,9 @@
+# Keep the trained models tracked - they are needed at runtime.
+!*.keras
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
